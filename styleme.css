@@ -1,0 +1,88 @@
+body {
+    background-image: url('winter-2518916_960_720.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+#personal_info h1 {
+    font-family: Optima, sans-serif;
+    text-align: center;
+
+}
+
+#personal_info h2 {
+    font-family: Snell Roundhand, cursive;
+    color: brown;
+    text-align: center;
+
+}
+
+
+h2 {
+    font-family: Bradley Hand, cursive;
+    font-weight: 900;
+    color: coral;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+
+ul,
+ol,
+p {
+    font-family: monospace;
+    font-size: x-large;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
+
+#fav_movies {
+    text-align: center;
+}
+
+#fav_movies a {
+    font-style: italic;
+    font-family: Optima, sans-serif;
+}
+
+/* #moods {
+    text-align: center;
+
+} */
+
+#img_left {
+    float: left;
+    width: 50%;
+
+
+}
+
+#img_right {
+    float: left;
+    width: 50%;
+
+
+}
+
+img {
+
+    width: 50%;
+    height: 350px;
+    margin: auto;
+
+}
+
+#happy {
+    margin-left: 50%;
+}
+
+hr {
+    width: 60%;
+    margin: auto;
+}
