@@ -70,7 +70,8 @@ p {
 
 }
 
-img {
+#happy,
+#bored {
 
     width: 50%;
     height: 350px;
@@ -80,7 +81,10 @@ img {
 
 #happy {
     margin-left: 50%;
+
 }
+
+
 
 hr {
     width: 60%;
